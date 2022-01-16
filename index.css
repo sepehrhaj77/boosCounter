@@ -1,0 +1,27 @@
+#btn {
+	height: 50%;
+	width: 80%;
+	font-size: 8rem;
+	background-image: url('boos.png');
+	background-size: 100%;
+}
+button:active {
+	transform: translate(5px, 5px);
+}
+html,
+body {
+	width: 80%;
+	height: 100%;
+}
+div {
+	height: 80%;
+}
+
+.main {
+	margin-left: 60%;
+	margin-top: 25%;
+}
+
+body {
+	background-color: rgba(150, 20, 200, 0.8);
+}
