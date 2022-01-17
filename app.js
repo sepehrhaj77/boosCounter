@@ -1,4 +1,3 @@
-localStorage.setItem('score', 1000)
 let button = document.getElementById('btn')
 button.innerText = localStorage.getItem('score')
 
